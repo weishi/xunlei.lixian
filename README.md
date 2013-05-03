@@ -8,7 +8,7 @@ Usage
 =====
 
     xunleiLixian.login(username,password, successCallback);
-    xunleiLixian.addTask(magnetLink, successCallback);
+    xunleiLixian.addTask(url, successCallback); //Only support direct link, e.g. magnet/ed2k
 
 
 Note
